@@ -1,0 +1,9 @@
+﻿  SimpleImageProcessingApp.cpp
+C:\Users\dmiwd\Documents\Programming\x86 Assembly course\SimpleImageProcessingApp\SimpleImageProcessingApp\SimpleImageProcessingApp.cpp(20,32): warning C4474: 'fscanf_s' : too many arguments passed for format string
+      C:\Users\dmiwd\Documents\Programming\x86 Assembly course\SimpleImageProcessingApp\SimpleImageProcessingApp\SimpleImageProcessingApp.cpp(20,32):
+      placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+  
+C:\Users\dmiwd\Documents\Programming\x86 Assembly course\SimpleImageProcessingApp\SimpleImageProcessingApp\SimpleImageProcessingApp.cpp(56,12): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+C:\Users\dmiwd\Documents\Programming\x86 Assembly course\SimpleImageProcessingApp\SimpleImageProcessingApp\SimpleImageProcessingApp.cpp(57,12): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+C:\Users\dmiwd\Documents\Programming\x86 Assembly course\SimpleImageProcessingApp\SimpleImageProcessingApp\SimpleImageProcessingApp.cpp(58,12): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+  SimpleImageProcessingApp.vcxproj -> C:\Users\dmiwd\Documents\Programming\x86 Assembly course\SimpleImageProcessingApp\Debug\SimpleImageProcessingApp.exe

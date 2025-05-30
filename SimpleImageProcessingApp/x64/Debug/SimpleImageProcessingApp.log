@@ -1,0 +1,6 @@
+﻿  SimpleImageProcessingApp.cpp
+C:\Users\dmiwd\Documents\Programming\x86 Assembly course\SimpleImageProcessingApp\SimpleImageProcessingApp\SimpleImageProcessingApp.cpp(14,32): warning C4474: 'fscanf_s' : too many arguments passed for format string
+      C:\Users\dmiwd\Documents\Programming\x86 Assembly course\SimpleImageProcessingApp\SimpleImageProcessingApp\SimpleImageProcessingApp.cpp(14,32):
+      placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+  
+  SimpleImageProcessingApp.vcxproj -> C:\Users\dmiwd\Documents\Programming\x86 Assembly course\SimpleImageProcessingApp\x64\Debug\SimpleImageProcessingApp.exe
